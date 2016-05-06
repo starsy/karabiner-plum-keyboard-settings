@@ -26,3 +26,9 @@ PLUM/NiZ keyboard is an excellent Electrostatic Capacitive Keyboard, with simila
     - Alt_R + F8 -> Play/Pause
     - Alt_R + F7 -> Prev
     - Alt_R + F9 -> Next
+6. Cursor Keys
+5. Music Play Control
+    - Alt_R + H -> Left
+    - Alt_R + J -> Down
+    - Alt_R + K -> Up
+    - Alt_R + L -> Right
