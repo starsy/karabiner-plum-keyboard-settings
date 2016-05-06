@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<root>
+    <devicevendordef>
+        <vendorname>CATEX_TECH</vendorname>
+        <vendorid>0x0483</vendorid>
+    </devicevendordef>
+
+    <deviceproductdef>
+        <productname>84EC-S</productname>
+        <productid>0x5025</productid>
+    </deviceproductdef>
+
+    <item>
+        <name>CATEX_TECH 84EC-S</name>
+        <identifier>private.catext_tech_84ec-s</identifier>
+        <device_only>DeviceVendor::CATEX_TECH, DeviceProduct::84EC-S</identifier>
+
+        <autogen>__KeyToKey__ KeyCode::PAGEUP, KeyCode::END</autogen>
+        <autogen>__KeyToKey__ KeyCode::PAGEDOWN, KeyCode::PAGEUP</autogen>
+        <autogen>__KeyToKey__ KeyCode::END, KeyCode::PAGEDOWN</autogen>
+
+        <autogen>__KeyToKey__ KeyCode::H, ModifierFlag::FN, KeyCode::CURSOR_LEFT</autogen>
+        <autogen>__KeyToKey__ KeyCode::L, ModifierFlag::FN, KeyCode::CURSOR_RIGHT</autogen>
+        <autogen>__KeyToKey__ KeyCode::J, ModifierFlag::FN, KeyCode::CURSOR_DOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::K, ModifierFlag::FN, KeyCode::CURSOR_UP</autogen>
+
+        <autogen>__KeyToKey__ KeyCode::Q, ModifierFlag::FN, ConsumerKeyCode::VOLUME_MUTE</autogen>
+        <autogen>__KeyToKey__ KeyCode::W, ModifierFlag::FN, ConsumerKeyCode::VOLUME_DOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::E, ModifierFlag::FN, ConsumerKeyCode::VOLUME_UP</autogen>
+
+        <autogen>__KeyToKey__ KeyCode::F10, ModifierFlag::FN, ConsumerKeyCode::VOLUME_MUTE</autogen>
+        <autogen>__KeyToKey__ KeyCode::F11, ModifierFlag::FN, ConsumerKeyCode::VOLUME_DOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::F12, ModifierFlag::FN, ConsumerKeyCode::VOLUME_UP</autogen>
+
+        <autogen>__KeyToKey__ KeyCode::A, ModifierFlag::FN, ConsumerKeyCode::MUSIC_PLAY</autogen>
+        <autogen>__KeyToKey__ KeyCode::A, ModifierFlag::FN, ConsumerKeyCode::MUSIC_PLAY</autogen>
+        <autogen>__KeyToKey__ KeyCode::S, ModifierFlag::FN, ConsumerKeyCode::MUSIC_PREV</autogen>
+
+        <autogen>__KeyToKey__ KeyCode::F8, ModifierFlag::FN, ConsumerKeyCode::MUSIC_NEXT</autogen>
+        <autogen>__KeyToKey__ KeyCode::F7, ModifierFlag::FN, ConsumerKeyCode::MUSIC_PREV</autogen>
+        <autogen>__KeyToKey__ KeyCode::F9, ModifierFlag::FN, ConsumerKeyCode::MUSIC_NEXT</autogen>
+
+        <autogen>__KeyToKey__ KeyCode::F5, ModifierFlag::FN, ConsumerKeyCode::KEYBOARDLIGHT_HIGH</autogen>
+        <autogen>__KeyToKey__ KeyCode::F6, ModifierFlag::FN, ConsumerKeyCode::KEYBOARDLIGHT_LOW</autogen>
+
+        <autogen>__KeyToKey__ KeyCode::F1, ModifierFlag::FN, ConsumerKeyCode::BRIGHTNESS_DOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::F2, ModifierFlag::FN, ConsumerKeyCode::BRIGHTNESS_UP</autogen>
+    </item>
+</root>
