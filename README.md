@@ -1,8 +1,8 @@
 # karabiner-plum-keyboard-settings
 PLUM/NiZ keyboard is an excellent Electrostatic Capacitive Keyboard, with similar touch and feel like Realforce but much cheaper. This is the Karabiner settings for the 84-key keyboard in its model series, to make it functions more similar to a native Apple Keyboard on MacOSX.
 
-Shop Link: https://shop34461539.taobao.com/
-Keyboard Picture: 
+- Keyboard Picture: https://github.com/starsy/karabiner-plum-keyboard-settings/blob/master/PLUM%20-%2084EC-S.jpg
+- Shop Link: https://shop34461539.taobao.com/
 
 00. The settings will only be applied to the PLUM/NiZ keyboard with 84 keys model. 
   - If you need apply it to other models or brands, please refer to the [devicevendordef] and [deviceproductdef] section in the xml file
