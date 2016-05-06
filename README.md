@@ -2,7 +2,7 @@
 PLUM/NiZ keyboard is an excellent Electrostatic Capacitive Keyboard, with similar touch and feel of Realforce but much cheaper. This is the Karabiner settings for the 84-key keyboard in its model series, to make the keys function close to native Apple Keyboard.
 
 00. The settings will only be applied to the PLUM/NiZ keyboard with 84 keys model. 
-  - if you need apply it on other keyboard, please refer to the &lt;devicevendordef%gt; and %lt;deviceproductdef%gt; section
+  - if you need apply it on other keyboard, please refer to the &lt;devicevendordef %gt; and %lt;deviceproductdef %gt; section
 0. Alt_R is the FN key
 1. Change key sequence to be "Home", "End", "PageUp", "PageDown" from top to down
     - Which originally was "Home", "PageUp", "PageDown", "End" from top to down
