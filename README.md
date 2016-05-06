@@ -4,7 +4,7 @@ PLUM/NiZ keyboard is an excellent Electrostatic Capacitive Keyboard, with simila
 00. The settings will only be applied to the PLUM/NiZ keyboard with 84 keys model. 
   - If you need apply it to other models or brands, please refer to the [devicevendordef] and [deviceproductdef] section in the xml file
 0. Alt_R is the FN key
-1. Change key sequence to be "Home", "End", "PageUp", "PageDown" from top to down
+1. Change key layout to be "Home", "End", "PageUp", "PageDown" from top to down
     - Which originally was "Home", "PageUp", "PageDown", "End" from top to down
 2. Volume Keys:
     - Alt_R + F12 -> Vol Up
